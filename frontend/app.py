@@ -236,6 +236,9 @@ def page_home(user):
         st.info("No events found just yet. Try another search or category to find your next campus moment.")
         st.button("Clear filters", on_click=lambda: st.session_state.update(filter_category="All", filter_query=""))
     else:
+        counts = pd.Series([e["category"] for e in shown]).value_counts()
+        st.caption("Events per category (updates with your filters)")
+        st.bar_chart(counts, x_label="Category", y_label="Number of events")
         render_grid(shown, user, rsvps, "home")
 
     st.markdown(
