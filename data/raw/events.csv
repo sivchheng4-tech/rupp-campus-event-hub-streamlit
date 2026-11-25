@@ -1,0 +1,716 @@
+event_id,event_name,category,venue,event_date,start_time,is_free,ticket_price,capacity,promo_days,speaker_rating,exam_week,attendance
+E0121,Sports event 121,Sports,Classroom,2026-04-22,20:00,Yes,,78,13,4.1,0,65.0
+E0571,Workshop event 571,Workshop,Library Hall,2026-04-12,18:00,Y,,117,3,3.5,0,52.0
+E0040,Cultural event 40,Cultural,outdoor field,2026-05-16,1:00 PM,N,13.0,938,13,,0,492.0
+E0295,Cultural event 295,Cultural,Main Hall,2025-10-14,14:00,No,9.7,230,21,3.9,0,270.0
+E0667,Cultural event 667,CULTURAL,Library Hall,2026-03-15,12:00,Yes,,128,19,2.5,0,101.0
+E0438,Workshop event 438,Workshop,Library Hall,2025-11-22,14:00,Yes,,102,2,4.1,0,52.0
+E0066,Career event 66,Career,Auditorium,2025-10-01,20:00,No,5.5,531,10,4.5,0,345.0
+E0500,Sports event 500,Sports,Auditorium,2025-12-01,13:00,Y,,424,14,3.0,0,293.0
+E0079,Cultural event 79,CULTURAL,Library Hall,2025-11-02,16:00,Yes,,122,12,4.4,0,110.0
+E0654,Social event 654,SOCIAL,Outdoor Field,2026-05-14,16:00,No,3.1,633,18,3.7,0,441.0
+E0345,Workshop event 345, workshop ,Auditorium,2025-10-27,15:00,No,8.3,426,17,4.9,0,257.0
+E0098,Social event 98,Social,main hall,2026-03-30,19:00,Yes,0.0,265,3,4.7,0,228.0
+E0443,Academic event 443,ACADEMIC,Outdoor Field,2026-04-09,20:00,Y,0.0,480,11,3.0,0,305.0
+E0085,Cultural event 85,Cultural,Main Hall,2025-12-21,16:00,Yes,0.0,231,5,4.8,0,201.0
+E0209,Career event 209,Career,Library Hall,2025-11-03,12:00,Yes,0.0,113,14,3.6,0,93.0
+E0457,Academic event 457,ACADEMIC,classroom,2025-12-11,18:00,Yes,,30,11,5.0,0,23.0
+E0240,Cultural event 240, cultural ,Main Hall,2025-11-13,09:00,N,2.9,256,3,3.6,0,105.0
+E0266,Cultural event 266,Cultural,Main Hall,2025-12-16,09:00,No,10.9,234,6,4.5,0,119.0
+E0329,Academic event 329,Academic,Main Hall,2025-12-29,17:00,Yes,,166,9,4.8,0,125.0
+E0410,Academic event 410, academic ,classroom,2026-05-18,09:00,Yes,0.0,34,10,4.5,0,22.0
+E0055,Sports event 55,Sports,Main Hall,2026-02-02,17:00,Yes,0.0,186,16,3.2,0,145.0
+E0210,Social event 210,Social,Classroom,2025-10-05,14:00,Yes,,48,0,4.3,0,36.0
+E0682,Academic event 682, academic ,Library Hall,2025-09-25,20:00,Yes,0.0,101,12,2.8,0,54.0
+E0589,Workshop event 589,Workshop,Classroom,2025-10-27,16:00,No,5.3,36,2,2.7,0,16.0
+E0182,Academic event 182,Academic,Outdoor Field,2025-10-29,12:00,Yes,,317,19,2.9,0,206.0
+E0132,Cultural event 132,Cultural,Library Hall,2025-09-03,08:00,Yes,0.0,88,16,4.9,0,71.0
+E0228,Cultural event 228,Cultural,Library Hall,2026-02-05,10:00,Yes,0.0,127,10,3.1,0,79.0
+E0073,Sports event 73,SPORTS,Classroom,2025-12-31,20:00,Y,,77,20,3.3,0,52.0
+E0087,Academic event 87, academic ,classroom,2025-10-14,11:00,No,12.6,67,10,3.5,0,21.0
+E0678,Academic event 678,Academic,Auditorium,2025-12-28,19:00,Yes,,688,4,5.0,0,408.0
+E0519,Sports event 519,Sports,Outdoor Field,2025-12-31,16:00,Yes,0.0,603,15,2.7,0,511.0
+E0119,Career event 119,Career,Auditorium,2026-01-12,11:00,Yes,,303,21,3.3,0,215.0
+E0341,Cultural event 341, cultural ,Auditorium,2025-12-26,12:00,Yes,0.0,427,7,4.2,1,174.0
+E0469,Career event 469,CAREER,Outdoor Field,2025-09-09,12:00,Yes,,319,11,3.6,0,216.0
+E0082,Sports event 82,Sports,Auditorium,2025-09-01,11:00 AM,Yes,0.0,693,4,4.5,0,552.0
+E0585,Sports event 585,SPORTS,Library Hall,2026-02-20,14:00,Y,0.0,92,1,3.9,0,80.0
+E0078,Career event 78,Career,Classroom,2025-12-16,14:00,No,12.7,48,3,3.1,0,17.0
+E0512,Social event 512, social ,Auditorium,2026-04-28,8:00 PM,Yes,,547,17,2.9,0,468.0
+E0137,Cultural event 137,Cultural,Outdoor Field,2025-10-12,11:00,N,3.8,439,17,4.6,1,218.0
+E0330,Cultural event 330,CULTURAL,Library Hall,2025-09-29,11:00,Y,,98,6,4.1,0,138.0
+E0134,Cultural event 134,Cultural,Classroom,2025-10-21,9:00 AM,No,14.3,50,7,3.5,0,22.0
+E0677,Cultural event 677,Cultural,Outdoor Field,2026-01-04,14:00,No,10.4,257,17,4.0,0,189.0
+E0611,Workshop event 611, workshop ,Main Hall,2026-01-13,08:00,Yes,,158,13,3.3,0,70.0
+E0255,Cultural event 255,Cultural,Auditorium,2025-10-13,12:00,No,7.5,505,9,3.7,0,207.0
+E0212,Social event 212,Social,classroom,2025-10-09,08:00,No,3.0,62,17,4.4,1,27.0
+E0050,Social event 50,Social,Classroom,2025-09-28,19:00,Yes,,79,14,,0,72.0
+E0335,Sports event 335,Sports,Classroom,2026-04-21,13:00,N,11.1,71,19,3.2,0,42.0
+E0351,Cultural event 351,Cultural,Main Hall,2026-05-10,18:00,Yes,,210,4,3.6,1,116.0
+E0213,Social event 213,Social,Library Hall,2026-02-28,14:00,No,7.0,100,1,5.0,0,66.0
+E0444,Sports event 444, sports ,Outdoor Field,2026-04-17,12:00,No,5.2,793,0,4.0,1,290.0
+E0110,Social event 110,SOCIAL,Outdoor Field,,09:00,No,3.4,806,20,3.1,0,552.0
+E0159,Cultural event 159,Cultural,Auditorium,2026-05-27,8:00 AM,Yes,0.0,568,7,4.7,0,362.0
+E0578,Cultural event 578,Cultural,Auditorium,2025-12-02,19:00,No,12.6,573,0,,1,76.0
+E0576,Sports event 576,Sports,Auditorium,2025-09-14,15:00,Yes,,526,7,3.5,1,264.0
+E0501,Academic event 501,Academic,Outdoor Field,2026-01-23,19:00,Yes,0.0,365,18,,0,270.0
+E0594,Workshop event 594,Workshop,Classroom,2026-02-20,13:00,Y,0.0,34,14,3.0,0,21.0
+E0064,Workshop event 64,Workshop,Outdoor Field,2025-09-14,19:00,Yes,,560,5,,0,227.0
+E0211,Career event 211,Career,auditorium,2026-03-29,11:00,Yes,0.0,633,6,9.0,0,459.0
+E0684,Workshop event 684,Workshop,Outdoor Field,2026-02-28,6:00 PM,Yes,,338,0,3.7,0,114.0
+E0630,Sports event 630, sports ,Library Hall,2025-12-02,14:00,Y,,111,16,4.8,0,106.0
+E0011,Cultural event 11,Cultural,Auditorium,2025-09-17,11:00,No,8.7,438,10,4.9,0,148.0
+E0368,Career event 368,Career,Auditorium,2026-01-05,16:00,Yes,,603,5,3.1,1,290.0
+E0355,Workshop event 355,Workshop,Classroom,2026-02-17,18:00,Yes,0.0,64,2,4.0,0,33.0
+E0676,Social event 676,Social,Outdoor Field,2025-12-20,11:00,Yes,,245,16,3.9,0,201.0
+E0183,Sports event 183,Sports,Main Hall,2026-01-18,12:00,Yes,0.0,282,20,3.6,0,243.0
+E0580,Academic event 580,Academic,Outdoor Field,2026-04-03,12:00,Y,0.0,935,13,3.6,0,581.0
+E0409,Workshop event 409,Workshop,Outdoor Field,2025-09-25,13:00,Yes,0.0,255,4,3.9,1,64.0
+E0287,Academic event 287,ACADEMIC,Auditorium,2025-12-25,20:00,Yes,0.0,795,12,,0,616.0
+E0618,Career event 618,Career,Main Hall,2026-03-16,16:00,Yes,0.0,178,0,4.7,0,108.0
+E0665,Cultural event 665,Cultural,Main Hall,2026-02-07,10:00 AM,Y,,230,1,4.1,0,154.0
+E0400,Career event 400, career ,Main Hall,2026-01-19,8:00 PM,Yes,0.0,164,8,,0,103.0
+E0699,Academic event 699,Academic,Classroom,2026-03-22,17:00,Yes,,44,9,2.9,0,20.0
+E0592,Workshop event 592,WORKSHOP,Outdoor Field,2025-12-28,15:00,No,7.0,237,7,4.4,1,22.0
+E0303,Academic event 303,Academic,Main Hall,2026-03-04,17:00,Yes,,164,10,3.3,0,104.0
+E0102,Career event 102, career ,Library Hall,2025-11-10,08:00,No,14.2,106,16,2.8,0,37.0
+E0527,Workshop event 527,Workshop,Classroom,2025-12-07,20:00,Yes,,38,11,4.1,0,19.0
+E0193,Cultural event 193,Cultural,Main Hall,2025-12-13,11:00,No,9.9,208,6,2.7,0,58.0
+E0620,Academic event 620,Academic,Library Hall,2026-01-03,10:00 AM,Yes,0.0,145,17,,0,76.0
+E0391,Social event 391,Social,main hall,2026-02-05,12:00,No,14.5,157,9,2.9,0,76.0
+E0641,Social event 641,Social,Main Hall,2025-11-18,10:00,Yes,,247,17,3.5,0,186.0
+E0482,Social event 482,Social,Outdoor Field,2025-11-11,14:00,Yes,,503,3,,1,300.0
+E0440,Sports event 440,Sports,Main Hall,,14:00,No,8.6,185,9,,0,109.0
+E0032,Career event 32,Career,Main Hall,2025-10-20,20:00,Y,,233,15,2.5,1,114.0
+E0350,Academic event 350,Academic,Classroom,2026-03-14,10:00,Yes,,55,13,3.2,0,25.0
+E0633,Sports event 633, sports ,Main Hall,2025-09-25,20:00,Yes,,172,1,3.6,0,129.0
+E0315,Career event 315,Career,main hall,2026-02-21,12:00,Yes,,228,4,3.6,1,98.0
+E0595,Career event 595,Career,outdoor field,2026-03-23,8:00 PM,Yes,,457,15,3.0,0,366.0
+E0616,Cultural event 616,Cultural,Library Hall,2025-11-26,2:00 PM,Yes,,125,19,3.2,1,73.0
+E0418,Academic event 418,Academic,Main Hall,2025-11-08,14:00,Yes,0.0,161,14,3.9,0,91.0
+E0056,Academic event 56,Academic,Main Hall,2025-09-18,14:00,Yes,,182,8,4.5,1,57.0
+E0149,Social event 149,Social,Outdoor Field,2026-01-12,10:00,Yes,,937,4,3.1,0,742.0
+E0332,Sports event 332,SPORTS,Classroom,2026-05-03,14:00,Y,,57,1,4.1,0,47.0
+E0324,Workshop event 324,Workshop,Outdoor Field,2026-03-17,18:00,Yes,,975,20,2.6,0,579.0
+E0382,Workshop event 382,Workshop,Outdoor Field,2025-12-01,19:00,No,5.1,832,7,,0,
+E0077,Career event 77,Career,Main Hall,2026-01-11,09:00,Yes,0.0,228,3,4.6,0,143.0
+E0003,Cultural event 3,Cultural,Classroom,2025-11-20,10:00,No,12.5,30,3,2.5,1,3.0
+E0248,Sports event 248,Sports,Classroom,2026-02-27,17:00,N,12.9,63,15,4.7,0,44.0
+E0522,Academic event 522,Academic,Main Hall,2026-01-23,1:00 PM,Yes,0.0,239,14,3.0,0,172.0
+E0337,Workshop event 337,Workshop,Outdoor Field,2026-01-14,16:00,No,9.6,327,2,4.2,0,107.0
+E0674,Academic event 674,Academic,Main Hall,2025-12-02,17:00,N,2.6,276,14,3.2,0,133.0
+E0358,Workshop event 358,Workshop,Auditorium,2026-02-12,20:00,N,3.3,658,11,3.6,0,254.0
+E0624,Sports event 624,Sports,Outdoor Field,2026-02-09,12:00,Yes,,404,17,3.5,0,335.0
+E0197,Sports event 197,Sports,Main Hall,2026-02-25,10:00,Yes,,280,13,3.2,0,225.0
+E0300,Academic event 300,Academic,Main Hall,2026-05-18,17:00,No,9.2,281,0,3.2,0,68.0
+E0508,Career event 508,CAREER,Auditorium,2025-10-14,11:00,Yes,0.0,691,19,2.9,0,542.0
+E0329,Academic event 329,Academic,Main Hall,2025-12-29,17:00,Yes,,166,9,4.8,0,125.0
+E0613,Social event 613,SOCIAL,Auditorium,2025-10-12,8:00 PM,Yes,,589,6,4.4,0,500.0
+E0412,Career event 412,Career,Library Hall,2026-02-24,7:00 PM,Y,0.0,134,7,3.7,0,99.0
+E0334,Social event 334, social ,Library Hall,2026-04-22,12:00,Yes,0.0,102,16,3.7,0,101.0
+E0531,Cultural event 531,Cultural,Outdoor Field,2025-09-25,8:00 PM,Yes,,-1,13,3.8,0,178.0
+E0136,Career event 136,Career,Auditorium,2025-09-09,18:00,Yes,,578,0,,1,153.0
+E0091,Sports event 91,Sports,Classroom,2025-11-14,12:00,Y,,48,16,4.5,1,31.0
+E0146,Workshop event 146,Workshop,Classroom,2026-02-07,18:00,Y,0.0,31,16,4.4,0,21.0
+E0445,Cultural event 445,Cultural,library hall,2026-03-20,18:00,Yes,0.0,121,19,2.9,0,95.0
+E0406,Cultural event 406,Cultural,Classroom,2025-09-13,09:00,No,2.7,42,0,4.2,0,82.0
+E0061,Workshop event 61,Workshop,Classroom,2026-04-02,18:00,N,7.8,36,13,,0,14.0
+E0165,Sports event 165,Sports,outdoor field,2026-01-29,09:00,No,9.3,451,2,3.1,0,242.0
+E0031,Sports event 31,Sports,Auditorium,2026-01-05,5:00 PM,No,4.6,538,1,2.6,0,253.0
+E0070,Sports event 70,Sports,library hall,2025-09-17,20:00,Yes,,127,1,3.3,0,82.0
+E0530,Workshop event 530, workshop ,Library Hall,2026-05-16,08:00,Yes,0.0,106,6,4.8,0,40.0
+E0245,Cultural event 245,Cultural,Classroom,2025-10-06,15:00,Yes,0.0,73,3,2.7,1,18.0
+E0045,Academic event 45,Academic,Auditorium,2025-10-08,12:00,Yes,0.0,604,3,3.3,0,300.0
+E0285,Sports event 285,Sports,Main Hall,2025-12-06,10:00,Y,,169,16,3.8,0,153.0
+E0071,Social event 71,Social,Auditorium,2026-05-01,08:00,No,7.4,476,21,4.4,0,303.0
+E0079,Cultural event 79,CULTURAL,Library Hall,2025-11-02,16:00,Yes,,122,12,4.4,0,110.0
+E0381,Academic event 381,Academic,Outdoor Field,2025-09-13,16:00,Yes,0.0,683,4,,0,305.0
+E0670,Academic event 670,Academic,auditorium,2025-12-23,20:00,Yes,0.0,660,15,3.6,0,431.0
+E0347,Workshop event 347,Workshop,Library Hall,2026-05-25,18:00,No,2.6,98,3,4.3,0,50.0
+E0658,Cultural event 658,Cultural,Classroom,2026-03-19,16:00,Yes,,64,20,2.7,0,51.0
+E0156,Cultural event 156,Cultural,Outdoor Field,,16:00,No,8.8,521,4,2.7,0,241.0
+E0216,Career event 216,Career,Main Hall,2025-10-17,08:00,Y,,158,6,4.6,0,105.0
+E0569,Cultural event 569,Cultural,Outdoor Field,2026-04-15,08:00,Yes,0.0,855,16,4.8,0,664.0
+E0166,Social event 166,Social,Auditorium,2026-01-01,09:00,Yes,0.0,574,11,3.5,1,386.0
+E0413,Career event 413,Career,Classroom,2026-03-01,20:00,N,3.6,62,12,4.7,0,42.0
+E0007,Academic event 7,ACADEMIC,Classroom,2025-12-03,5:00 PM,No,11.3,52,17,,0,24.0
+E0258,Academic event 258,Academic,Auditorium,2026-04-24,10:00,No,8.5,482,7,3.2,0,104.0
+E0548,Cultural event 548,Cultural,Main Hall,2026-05-06,18:00,No,12.4,258,8,3.2,0,124.0
+E0221,Academic event 221,Academic,Outdoor Field,2025-11-11,09:00,Yes,,690,0,4.1,0,342.0
+E0429,Academic event 429,ACADEMIC,Main Hall,2026-02-13,09:00,No,12.8,229,2,,0,24.0
+E0133,Academic event 133,ACADEMIC,Main Hall,2026-05-10,8:00 PM,Yes,0.0,276,5,4.0,1,55.0
+E0292,Career event 292,Career,Main Hall,2026-04-29,10:00,N,11.8,212,21,,0,127.0
+E0042,Social event 42,Social,Auditorium,2026-01-17,19:00,Yes,,443,21,,0,483.0
+E0109,Sports event 109, sports ,Library Hall,2026-04-22,11:00,Yes,,117,11,3.0,0,97.0
+E0265,Workshop event 265,Workshop,Outdoor Field,2026-01-20,17:00,No,10.6,930,0,2.6,0,290.0
+E0057,Cultural event 57,Cultural,Auditorium,2026-05-24,1:00 PM,Yes,0.0,715,15,3.7,1,410.0
+E0205,Sports event 205,Sports,main hall,2025-10-04,19:00,Yes,,196,9,9.0,0,165.0
+E0319,Workshop event 319,Workshop,Classroom,2025-12-21,11:00,No,2.9,64,7,4.2,0,15.0
+E0529,Workshop event 529,Workshop,Classroom,2025-10-20,16:00,Y,,45,10,3.7,0,31.0
+E0025,Social event 25,Social,Auditorium,2025-11-09,17:00,Yes,,403,20,3.8,0,363.0
+E0232,Workshop event 232,Workshop,Auditorium,2026-05-01,19:00,No,6.9,377,5,4.8,0,112.0
+E0175,Social event 175,Social,Auditorium,2025-10-11,10:00,Yes,0.0,546,5,4.5,0,546.0
+E0636,Social event 636,Social,Outdoor Field,2026-04-17,09:00,N,8.0,738,6,2.6,0,390.0
+E0297,Workshop event 297, workshop ,Main Hall,2026-01-05,20:00,Yes,,153,18,4.1,0,99.0
+E0301,Sports event 301,Sports,outdoor field,2025-11-11,08:00,N,9.8,944,2,2.5,1,87.0
+E0111,Career event 111,Career,classroom,2025-11-30,17:00,Yes,0.0,43,18,4.1,0,31.0
+E0083,Academic event 83,Academic,Classroom,2025-11-18,15:00,Yes,,49,13,3.5,0,35.0
+E0052,Career event 52,Career,Classroom,2025-09-12,12:00,Yes,,66,0,3.9,0,37.0
+E0290,Sports event 290, sports ,Auditorium,2025-09-26,19:00,Y,0.0,441,10,4.2,0,346.0
+E0590,Workshop event 590,Workshop,Auditorium,2026-05-08,20:00,Yes,0.0,532,19,,0,338.0
+E0683,Workshop event 683,Workshop,Library Hall,2025-11-27,17:00,No,10.3,121,21,,0,52.0
+E0558,Workshop event 558,Workshop,Main Hall,2026-01-22,11:00,Yes,,241,20,,0,167.0
+E0251,Career event 251,Career,Classroom,2025-10-22,15:00,Yes,0.0,38,12,2.7,0,30.0
+E0555,Workshop event 555,Workshop,Auditorium,2026-05-21,19:00,N,7.9,303,19,4.6,0,118.0
+E0257,Social event 257,Social,Main Hall,2026-04-17,13:00,Yes,,221,3,3.2,0,154.0
+E0019,Workshop event 19,Workshop,Library Hall,2026-04-21,15:00,No,3.4,143,10,3.9,0,63.0
+E0336,Social event 336,Social,Auditorium,2026-04-04,15:00,No,14.4,441,2,3.6,1,179.0
+E0669,Workshop event 669,Workshop,Outdoor Field,2025-11-29,14:00,Yes,,419,12,3.8,0,227.0
+E0452,Workshop event 452,Workshop,Main Hall,2025-11-08,12:00,No,8.5,171,9,4.9,0,47.0
+E0236,Social event 236, social ,Outdoor Field,2026-01-23,15:00,Yes,0.0,883,16,,0,797.0
+E0062,Social event 62,Social,Main Hall,2025-11-24,11:00 AM,Yes,0.0,183,20,3.8,0,139.0
+E0649,Workshop event 649,WORKSHOP,Auditorium,2026-03-22,13:00,Yes,0.0,331,8,3.6,0,208.0
+E0399,Career event 399,Career,Classroom,2026-01-08,08:00,Yes,0.0,67,7,2.8,0,38.0
+E0030,Sports event 30,Sports,Auditorium,2026-04-01,12:00,Yes,,314,13,3.7,0,256.0
+E0200,Workshop event 200,Workshop,Auditorium,2026-03-11,19:00,Yes,,510,10,3.6,0,321.0
+E0560,Workshop event 560,Workshop,Outdoor Field,2025-10-21,10:00,Yes,0.0,413,18,4.5,0,269.0
+E0261,Social event 261,Social,Classroom,2026-02-15,4:00 PM,Yes,,55,13,,0,55.0
+E0545,Social event 545,SOCIAL,Outdoor Field,2025-12-12,13:00,No,5.8,255,6,3.7,1,130.0
+E0688,Cultural event 688,Cultural,Library Hall,,08:00,Yes,0.0,84,13,,0,58.0
+E0214,Sports event 214,Sports,Outdoor Field,2026-03-07,08:00,Y,0.0,974,2,4.4,0,778.0
+E0389,Workshop event 389,WORKSHOP,Auditorium,2026-01-06,14:00,N,3.4,733,15,4.8,0,510.0
+E0362,Workshop event 362,Workshop,Auditorium,2025-12-20,10:00,Yes,,606,20,2.6,0,248.0
+E0520,Cultural event 520,Cultural,Main Hall,2026-01-22,20:00,No,13.7,190,2,4.3,0,230.0
+E0249,Social event 249, social ,Outdoor Field,2026-05-22,10:00 AM,N,3.2,683,12,3.3,0,353.0
+E0487,Sports event 487, sports ,Classroom,2026-02-23,12:00 PM,Y,0.0,52,14,3.1,0,34.0
+E0383,Workshop event 383,Workshop,Outdoor Field,2025-09-07,10:00,Yes,0.0,942,16,4.3,0,509.0
+E0177,Social event 177,Social,Main Hall,2026-01-27,10:00,No,9.2,209,5,3.3,0,75.0
+E0235,Sports event 235,Sports,Main Hall,2025-12-22,15:00,No,7.6,188,21,2.9,0,109.0
+E0539,Cultural event 539,Cultural,Library Hall,2026-05-18,09:00,Yes,0.0,84,1,3.4,0,51.0
+E0614,Sports event 614,Sports,Outdoor Field,2026-05-07,14:00,Yes,,465,20,,0,405.0
+E0394,Cultural event 394,Cultural,Library Hall,2025-11-15,15:00,N,14.0,125,17,3.8,0,94.0
+E0671,Workshop event 671, workshop ,Outdoor Field,2025-10-22,16:00,No,4.1,604,4,4.9,0,242.0
+E0164,Sports event 164,Sports,Auditorium,2026-05-07,14:00,No,3.2,346,2,4.2,0,201.0
+E0546,Academic event 546, academic ,Outdoor Field,2025-10-03,08:00,No,13.5,852,14,3.1,1,892.0
+E0628,Sports event 628,Sports,classroom,2026-05-15,08:00,Yes,0.0,62,6,3.7,0,38.0
+E0591,Social event 591,Social,Library Hall,2026-01-22,17:00,Y,,143,3,2.8,0,111.0
+E0507,Cultural event 507, cultural ,Main Hall,2025-11-19,14:00,Yes,,153,10,3.7,1,74.0
+E0293,Workshop event 293,Workshop,Classroom,2026-02-25,16:00,Yes,,36,8,2.6,0,19.0
+E0328,Academic event 328,Academic,Library Hall,2026-02-01,13:00,No,11.0,121,13,3.3,0,34.0
+E0430,Social event 430,Social,Auditorium,2026-05-24,15:00,Yes,,439,6,4.8,0,434.0
+E0105,Social event 105,Social,Auditorium,2026-02-09,13:00,No,6.2,455,17,,1,228.0
+E0115,Cultural event 115,Cultural,Auditorium,2025-11-06,09:00,No,14.0,778,5,9.0,1,114.0
+E0643,Workshop event 643,Workshop,Classroom,2026-03-21,14:00,Yes,0.0,75,11,2.6,0,34.0
+E0498,Sports event 498,SPORTS,Outdoor Field,2026-04-25,17:00,Yes,0.0,934,15,3.6,0,843.0
+E0642,Workshop event 642,Workshop,Classroom,2026-04-29,09:00,No,13.0,38,9,3.8,0,10.0
+E0276,Sports event 276,Sports,Library Hall,2026-05-24,20:00,No,3.9,86,9,3.7,0,57.0
+E0093,Workshop event 93,Workshop,Auditorium,2025-09-08,11:00 AM,Y,,742,5,,1,190.0
+E0008,Social event 8,Social,Main Hall,2026-04-25,09:00,Y,0.0,239,2,4.5,1,180.0
+E0090,Social event 90,SOCIAL,Classroom,2026-01-16,15:00,Y,,40,14,3.2,0,32.0
+E0543,Career event 543,CAREER,Outdoor Field,2026-04-25,10:00,Yes,,624,10,2.8,0,377.0
+E0448,Workshop event 448,Workshop,Auditorium,2026-01-25,15:00,Yes,0.0,585,3,2.7,0,248.0
+E0536,Academic event 536,Academic,Library Hall,2025-10-15,08:00,Y,,92,17,3.5,0,61.0
+E0395,Social event 395,Social,Library Hall,2026-01-08,13:00,N,13.5,89,3,4.8,0,48.0
+E0432,Social event 432,Social,auditorium,2026-05-16,18:00,No,10.3,654,7,4.0,0,418.0
+E0224,Career event 224,Career,Classroom,2025-09-05,16:00,Yes,,37,15,3.6,0,31.0
+E0141,Workshop event 141,Workshop,Library Hall,2026-01-07,10:00,No,5.9,132,18,3.2,0,58.0
+E0029,Cultural event 29,Cultural,Main Hall,2025-11-12,08:00,No,3.2,216,1,4.6,0,103.0
+E0044,Sports event 44,Sports,Library Hall,2025-12-26,15:00,Yes,,127,14,3.1,0,112.0
+E0043,Social event 43,Social,Auditorium,2026-05-11,20:00,Yes,0.0,637,14,4.7,0,561.0
+E0074,Academic event 74, academic ,Auditorium,2025-10-26,17:00,Yes,,624,15,3.6,0,366.0
+E0168,Career event 168,Career,Outdoor Field,2026-02-10,5:00 PM,Yes,,463,2,2.8,0,297.0
+E0694,Workshop event 694,Workshop,Auditorium,2025-10-24,14:00,Y,,667,15,4.6,0,473.0
+E0626,Career event 626,Career,classroom,2026-01-06,16:00,Yes,0.0,65,0,2.9,0,34.0
+E0067,Workshop event 67,Workshop,Auditorium,2026-02-19,12:00,Y,,401,18,4.7,0,287.0
+E0012,Workshop event 12, workshop ,Main Hall,2026-01-30,16:00,No,8.9,186,7,4.3,0,85.0
+E0343,Cultural event 343,Cultural,Main Hall,2026-01-02,08:00,Yes,,179,21,,0,132.0
+E0583,Academic event 583,Academic,library hall,2025-09-15,13:00,No,4.0,91,16,4.3,0,48.0
+E0179,Workshop event 179,Workshop,Main Hall,2025-10-01,12:00 PM,No,13.2,256,15,3.2,0,65.0
+E0282,Sports event 282, sports ,Auditorium,2025-09-04,13:00,No,5.1,793,7,9.0,0,444.0
+E0378,Social event 378,SOCIAL,Classroom,2025-10-14,10:00,Yes,,38,6,4.9,1,21.0
+E0426,Career event 426,Career,Outdoor Field,2026-05-02,12:00 PM,Yes,,809,12,3.9,0,533.0
+E0307,Career event 307,Career,outdoor field,2026-05-24,12:00,Yes,,574,19,4.2,0,428.0
+E0549,Cultural event 549,Cultural,Library Hall,2025-09-01,20:00,Y,,86,7,3.4,0,62.0
+E0178,Academic event 178,Academic,Auditorium,2026-04-04,08:00,No,4.8,354,7,3.9,0,116.0
+E0479,Cultural event 479,CULTURAL,Library Hall,2026-03-16,20:00,Yes,0.0,120,3,,1,55.0
+E0213,Social event 213,Social,Library Hall,2026-02-28,14:00,No,7.0,100,1,5.0,0,66.0
+E0084,Social event 84, social ,Classroom,2025-10-01,16:00,Y,0.0,51,0,,0,38.0
+E0219,Sports event 219,Sports,Library Hall,2025-10-03,19:00,No,8.5,107,4,4.8,1,30.0
+E0619,Academic event 619,Academic,Main Hall,2026-03-14,15:00,Yes,,153,1,,0,83.0
+E0423,Social event 423,Social,Library Hall,2025-11-21,10:00,Yes,,102,3,3.4,0,65.0
+E0693,Workshop event 693,WORKSHOP,Outdoor Field,2026-04-06,17:00,Yes,0.0,227,5,3.9,0,125.0
+E0483,Career event 483,Career,Auditorium,2025-10-19,11:00,Yes,0.0,417,8,4.0,0,314.0
+E0080,Social event 80,Social,Outdoor Field,2025-12-22,13:00,Y,0.0,236,6,2.7,0,152.0
+E0024,Workshop event 24,Workshop,Classroom,2026-03-02,15:00,Y,0.0,73,21,3.5,0,45.0
+E0016,Social event 16, social ,Auditorium,2026-03-31,10:00,No,14.1,665,1,4.4,0,325.0
+E0516,Academic event 516,Academic,Classroom,2026-01-18,16:00,Yes,0.0,37,5,3.9,0,77.0
+E0463,Social event 463,Social,Outdoor Field,2026-04-17,4:00 PM,No,11.7,502,3,4.2,0,542.0
+E0484,Social event 484, social ,Main Hall,2026-04-17,16:00,No,4.5,288,15,,0,186.0
+E0291,Social event 291,Social,library hall,2026-03-28,13:00,No,9.7,132,0,3.1,0,73.0
+E0437,Cultural event 437,Cultural,Auditorium,2026-05-13,12:00,Y,0.0,591,8,3.4,0,461.0
+E0333,Career event 333,Career,Auditorium,2026-03-08,10:00,No,9.6,469,4,,0,215.0
+E0405,Sports event 405,Sports,Library Hall,2025-10-05,8:00 AM,No,5.6,112,19,3.4,0,75.0
+E0260,Cultural event 260,CULTURAL,Main Hall,2025-11-08,10:00,Yes,0.0,254,2,2.9,0,170.0
+E0138,Academic event 138,ACADEMIC,Classroom,2025-09-30,11:00 AM,No,6.2,76,6,3.0,1,11.0
+E0372,Cultural event 372,Cultural,Library Hall,2025-12-11,09:00,No,13.2,96,7,3.0,0,34.0
+E0325,Workshop event 325,Workshop,outdoor field,2026-01-23,12:00,Yes,,929,11,4.3,0,525.0
+E0034,Cultural event 34,Cultural,Auditorium,2026-01-30,13:00,Y,0.0,441,2,2.9,0,281.0
+E0320,Social event 320,Social,Classroom,2026-01-18,13:00,No,14.1,75,1,,0,40.0
+E0356,Workshop event 356,Workshop,Outdoor Field,2025-11-26,14:00,Yes,0.0,768,18,,0,491.0
+E0010,Academic event 10,Academic,Main Hall,2025-11-16,11:00,No,4.1,167,4,3.2,0,24.0
+E0250,Academic event 250,Academic,Library Hall,2026-04-14,14:00,No,2.3,84,15,3.0,1,31.0
+E0023,Career event 23,Career,Outdoor Field,2026-02-07,15:00,Y,,360,2,2.8,0,256.0
+E0222,Sports event 222,Sports,Main Hall,2025-09-02,08:00,Y,,255,1,3.8,0,
+E0454,Academic event 454,Academic,Outdoor Field,2025-10-14,10:00,No,14.4,413,0,4.3,0,83.0
+E0700,Academic event 700,Academic,Library Hall,2025-11-06,13:00,Yes,,92,18,2.8,0,63.0
+E0354,Sports event 354,Sports,Outdoor Field,2025-12-16,14:00,N,12.3,723,8,3.5,0,340.0
+E0598,Social event 598, social ,Auditorium,2026-05-27,13:00,Yes,0.0,428,7,4.1,0,349.0
+E0204,Social event 204,Social,Outdoor Field,2025-11-25,19:00,No,8.3,944,12,4.2,0,537.0
+E0421,Workshop event 421, workshop ,Classroom,2025-11-24,13:00,No,4.1,42,18,3.0,0,17.0
+E0094,Sports event 94,Sports,Outdoor Field,2025-11-29,10:00,No,2.8,386,12,2.7,0,224.0
+E0312,Social event 312,Social,Auditorium,2026-01-05,08:00,Yes,0.0,468,1,2.8,0,260.0
+E0446,Cultural event 446,Cultural,Main Hall,2026-02-14,13:00,Yes,0.0,221,18,,0,203.0
+E0397,Academic event 397,Academic,Outdoor Field,2026-05-22,18:00,Yes,,883,19,3.3,0,683.0
+E0185,Sports event 185,Sports,Outdoor Field,2026-02-19,16:00,Y,0.0,655,15,,0,553.0
+E0577,Workshop event 577,Workshop,auditorium,2026-05-10,20:00,Yes,,672,9,4.1,0,712.0
+E0696,Career event 696,Career,Main Hall,2026-03-30,7:00 PM,Yes,0.0,256,16,3.8,0,186.0
+E0154,Career event 154,Career,Library Hall,2026-02-15,14:00,Y,0.0,99,14,,1,51.0
+E0076,Sports event 76,Sports,Outdoor Field,2025-11-21,5:00 PM,Yes,0.0,416,19,3.5,1,219.0
+E0514,Social event 514,Social,Outdoor Field,2026-03-29,3:00 PM,Yes,,693,11,2.6,0,631.0
+E0278,Social event 278,Social,Main Hall,2025-12-23,09:00,Yes,0.0,186,1,2.7,0,123.0
+E0069,Academic event 69,Academic,Classroom,2026-03-29,20:00,No,6.3,67,0,,0,19.0
+E0657,Social event 657,SOCIAL,Library Hall,2026-03-18,19:00,N,13.3,123,3,,0,67.0
+E0189,Career event 189,Career,classroom,2026-04-21,20:00,Yes,0.0,57,2,4.0,0,39.0
+E0272,Academic event 272,Academic,Main Hall,2026-02-01,18:00,Yes,0.0,220,14,4.9,0,161.0
+E0237,Cultural event 237,Cultural,Classroom,2025-10-15,13:00,Yes,0.0,73,7,,0,47.0
+E0089,Social event 89,SOCIAL,Main Hall,2025-09-30,14:00,No,5.4,263,4,4.4,0,172.0
+E0606,Cultural event 606,Cultural,Auditorium,2025-10-05,11:00,No,8.1,779,0,2.7,0,269.0
+E0118,Academic event 118,Academic,classroom,2025-09-14,8:00 PM,No,14.1,67,2,2.9,0,10.0
+E0126,Cultural event 126,Cultural,Classroom,2025-09-13,16:00,Yes,,45,17,3.9,0,43.0
+E0587,Social event 587,Social,Outdoor Field,2026-04-12,11:00,Y,0.0,512,19,3.8,0,512.0
+E0239,Career event 239,Career,Main Hall,2025-10-20,08:00,Yes,0.0,191,7,4.5,0,144.0
+E0001,Academic event 1,Academic,Main Hall,2026-04-19,19:00,Y,,200,7,3.5,0,118.0
+E0235,Sports event 235,Sports,Main Hall,2025-12-22,15:00,No,7.6,188,21,2.9,0,109.0
+E0357,Academic event 357,Academic,Main Hall,2025-12-03,6:00 PM,Yes,0.0,182,19,4.5,0,140.0
+E0501,Academic event 501,Academic,Outdoor Field,2026-01-23,19:00,Yes,0.0,365,18,,0,270.0
+E0361,Workshop event 361,Workshop,Auditorium,2025-12-13,12:00,Yes,,387,1,3.7,0,74.0
+E0279,Academic event 279,Academic,Library Hall,2026-05-08,8:00 PM,No,3.7,125,2,4.4,0,53.0
+E0117,Academic event 117,Academic,Classroom,2026-01-09,13:00,Yes,0.0,39,4,3.4,0,26.0
+E0229,Cultural event 229,Cultural,Main Hall,2025-12-14,08:00,Y,,167,18,4.3,0,143.0
+E0327,Career event 327,Career,Classroom,2026-05-15,10:00,Y,0.0,67,17,,0,47.0
+E0339,Career event 339,Career,Main Hall,,6:00 PM,Yes,,298,17,,0,338.0
+E0275,Sports event 275,Sports,Classroom,2026-03-13,17:00,No,6.7,65,3,9.0,0,38.0
+E0465,Academic event 465,Academic,Main Hall,2026-04-14,13:00,Yes,0.0,205,10,,0,131.0
+E0145,Workshop event 145,Workshop,Classroom,2025-11-02,17:00,Yes,,30,0,2.6,0,13.0
+E0433,Social event 433,Social,Auditorium,,20:00,Yes,0.0,684,12,3.8,0,565.0
+E0396,Workshop event 396,Workshop,Classroom,2025-10-25,10:00,Y,,40,12,4.1,0,26.0
+E0672,Cultural event 672,Cultural,Library Hall,2026-02-22,08:00,Yes,,133,16,4.3,0,127.0
+E0625,Cultural event 625,Cultural,Outdoor Field,2025-09-20,18:00,Yes,,500,7,5.0,0,476.0
+E0269,Cultural event 269,Cultural,Outdoor Field,2026-01-22,10:00,Yes,0.0,939,3,4.2,0,690.0
+E0488,Cultural event 488,Cultural,Main Hall,2025-12-21,12:00,Y,,217,0,3.7,0,166.0
+E0656,Cultural event 656,CULTURAL,Main Hall,2025-12-08,19:00,Yes,,169,19,2.5,0,115.0
+E0311,Cultural event 311,Cultural,Library Hall,2025-12-02,14:00,No,10.9,93,7,3.9,0,48.0
+E0047,Sports event 47,Sports,Main Hall,2026-05-12,10:00,No,3.2,281,12,3.7,0,169.0
+E0262,Career event 262,Career,Main Hall,2026-02-12,17:00,Yes,0.0,239,14,,0,195.0
+E0196,Academic event 196, academic ,auditorium,2025-10-15,18:00,No,2.5,402,17,3.6,0,222.0
+E0600,Cultural event 600,Cultural,Classroom,2025-11-15,09:00,Yes,0.0,38,18,,0,36.0
+E0599,Cultural event 599,Cultural,Main Hall,2025-11-15,09:00,No,7.1,173,20,4.2,0,122.0
+E0108,Cultural event 108,Cultural,Classroom,2026-01-08,18:00,Yes,,46,14,3.1,0,35.0
+E0586,Workshop event 586,Workshop,Classroom,2026-04-03,14:00,No,11.6,72,0,4.8,0,19.0
+E0535,Cultural event 535,Cultural,Auditorium,2025-10-10,09:00,No,8.8,625,1,2.8,0,257.0
+E0363,Career event 363,Career,Classroom,2025-09-03,14:00,Yes,,71,10,4.2,0,61.0
+E0101,Social event 101,Social,Classroom,2026-01-22,12:00,No,3.5,61,11,3.2,0,41.0
+E0570,Cultural event 570,Cultural,Classroom,2025-10-12,20:00,Yes,0.0,68,1,3.0,0,44.0
+E0640,Workshop event 640,Workshop,Main Hall,2025-12-31,12:00,No,9.5,190,21,4.5,0,94.0
+E0353,Career event 353,Career,Main Hall,2026-02-17,09:00,N,10.3,179,20,3.4,1,29.0
+E0180,Cultural event 180,CULTURAL,Auditorium,2026-02-10,16:00,N,10.4,363,7,2.6,1,67.0
+E0305,Cultural event 305,Cultural,Classroom,2026-05-07,12:00,Yes,,39,9,2.6,0,30.0
+E0370,Social event 370,Social,Classroom,2025-10-24,10:00,No,6.4,33,8,3.7,0,23.0
+E0687,Sports event 687,Sports,Main Hall,2026-03-17,11:00,Yes,,160,11,2.8,1,99.0
+E0150,Academic event 150,Academic,Auditorium,2025-09-02,13:00,Yes,,359,3,4.6,0,239.0
+E0125,Workshop event 125,Workshop,Auditorium,2026-02-10,1:00 PM,No,13.7,407,21,4.2,0,188.0
+E0648,Cultural event 648,Cultural,Auditorium,2026-01-22,18:00,Yes,0.0,527,9,4.2,0,443.0
+E0621,Sports event 621,Sports,Classroom,2025-11-21,16:00,N,8.7,44,5,4.9,0,29.0
+E0186,Sports event 186,Sports,Auditorium,2025-11-25,18:00,N,3.2,608,20,,0,370.0
+E0450,Career event 450,Career,Outdoor Field,,09:00,No,5.8,451,11,,0,249.0
+E0534,Career event 534,Career,Auditorium,2026-05-16,3:00 PM,No,10.2,504,13,,0,284.0
+E0322,Academic event 322,Academic,Classroom,2026-03-20,17:00,Yes,0.0,69,20,4.1,0,55.0
+E0364,Workshop event 364,Workshop,Auditorium,2026-02-10,15:00,Y,,439,6,3.4,0,195.0
+E0322,Academic event 322,Academic,Classroom,2026-03-20,17:00,Yes,0.0,69,20,4.1,0,55.0
+E0660,Career event 660,Career,Library Hall,2025-12-18,13:00,Yes,,146,12,3.0,0,106.0
+E0143,Career event 143,Career,Outdoor Field,2025-09-24,13:00,Yes,0.0,912,11,4.5,0,640.0
+E0142,Career event 142,CAREER,Auditorium,2025-11-05,16:00,Yes,0.0,610,6,2.6,0,426.0
+E0494,Cultural event 494,Cultural,Auditorium,2026-03-11,09:00,Yes,,530,1,3.3,0,286.0
+E0321,Career event 321,Career,Classroom,2025-09-24,11:00,Yes,0.0,37,2,4.4,1,21.0
+E0020,Sports event 20,Sports,Main Hall,2026-01-07,17:00,No,5.1,174,6,4.4,0,110.0
+E0173,Social event 173,Social,Classroom,2026-03-18,11:00,Y,,50,9,3.2,0,33.0
+E0581,Academic event 581,Academic,Auditorium,2026-02-25,09:00,No,12.4,495,6,,0,140.0
+E0313,Academic event 313,Academic,Library Hall,2026-04-26,20:00,No,7.4,128,20,3.9,0,48.0
+E0666,Social event 666,Social,Classroom,2026-01-16,14:00,No,14.3,34,18,3.1,1,8.0
+E0013,Social event 13,Social,Auditorium,2025-11-07,19:00,No,4.3,619,1,5.0,0,397.0
+E0306,Academic event 306,Academic,Outdoor Field,2026-04-20,18:00,No,5.2,318,5,9.0,0,100.0
+E0026,Cultural event 26,CULTURAL,Classroom,2026-04-08,11:00 AM,Yes,,64,3,,0,50.0
+E0533,Academic event 533,Academic,Outdoor Field,2026-04-14,19:00,No,13.5,931,9,4.1,0,335.0
+E0170,Academic event 170,Academic,Classroom,2026-05-24,20:00,Yes,,57,3,3.9,0,31.0
+E0504,Workshop event 504,Workshop,Auditorium,,15:00,Yes,,348,18,3.1,0,226.0
+E0425,Sports event 425,Sports,Outdoor Field,2026-03-28,08:00,No,13.9,590,6,3.0,1,127.0
+E0246,Academic event 246,Academic,Classroom,2025-11-19,11:00,Yes,,38,14,4.3,0,26.0
+E0299,Career event 299,CAREER,Outdoor Field,2025-12-07,11:00,N,3.6,719,2,3.5,0,759.0
+E0397,Academic event 397,Academic,Outdoor Field,2026-05-22,18:00,Yes,,883,19,3.3,0,683.0
+E0273,Academic event 273,ACADEMIC,Main Hall,2025-11-12,08:00,No,6.0,260,0,4.2,0,69.0
+E0155,Sports event 155,Sports,Library Hall,2026-01-02,11:00,Yes,0.0,90,10,3.3,0,63.0
+E0127,Academic event 127,Academic,Auditorium,2025-11-26,19:00,Yes,0.0,561,21,4.7,1,251.0
+E0495,Career event 495,CAREER,Main Hall,2025-10-07,11:00,Yes,,197,16,9.0,0,118.0
+E0342,Career event 342,Career,Outdoor Field,2026-03-20,08:00,Yes,0.0,575,0,4.1,1,208.0
+E0288,Cultural event 288,Cultural,Library Hall,2025-12-20,20:00,Yes,0.0,91,10,2.8,1,45.0
+E0114,Sports event 114,Sports,Library Hall,2025-11-29,09:00,No,8.3,126,0,,0,63.0
+E0651,Sports event 651,Sports,Classroom,2025-10-17,11:00,No,4.9,64,15,3.1,0,40.0
+E0174,Social event 174,Social,classroom,2026-04-08,13:00,No,13.0,31,20,3.4,0,21.0
+E0502,Cultural event 502,Cultural,Main Hall,2026-01-22,10:00 AM,Yes,0.0,282,1,3.4,0,150.0
+E0376,Academic event 376,Academic,Classroom,2025-10-06,13:00,Yes,0.0,57,19,3.5,0,36.0
+E0058,Academic event 58,Academic,Library Hall,2026-01-01,4:00 PM,Yes,,136,0,,0,176.0
+E0466,Workshop event 466,WORKSHOP,Classroom,2025-12-19,13:00,No,7.1,42,20,,0,82.0
+E0223,Social event 223,SOCIAL,Main Hall,2026-05-08,12:00,No,7.2,280,3,4.6,0,177.0
+E0281,Career event 281,Career,Main Hall,2026-05-13,10:00,No,13.0,173,10,2.7,0,76.0
+E0018,Academic event 18,Academic,Main Hall,2025-12-28,15:00,Yes,0.0,177,20,2.9,1,56.0
+E0427,Workshop event 427,Workshop,Outdoor Field,2025-09-29,14:00,Y,0.0,559,19,3.8,0,325.0
+E0323,Cultural event 323,Cultural,Outdoor Field,2026-02-24,09:00,N,11.9,724,17,3.8,0,339.0
+E0256,Academic event 256,ACADEMIC,auditorium,2025-11-02,12:00 PM,Y,0.0,594,11,3.4,0,343.0
+E0532,Academic event 532,Academic,Auditorium,2026-01-09,16:00,Yes,0.0,523,5,3.4,0,340.0
+E0685,Career event 685,Career,Library Hall,2025-10-06,19:00,No,4.8,112,21,4.8,0,78.0
+E0191,Social event 191,Social,Classroom,2026-03-18,13:00,Yes,0.0,66,19,2.6,0,48.0
+E0600,Cultural event 600,Cultural,Classroom,2025-11-15,09:00,Yes,0.0,38,18,,0,36.0
+E0632,Career event 632,Career,Auditorium,2025-10-18,14:00,Yes,,616,17,4.1,0,480.0
+E0431,Academic event 431,Academic,Main Hall,2025-12-05,19:00,Y,0.0,281,15,3.8,0,208.0
+E0095,Workshop event 95,Workshop,Main Hall,2025-12-20,16:00,Yes,0.0,238,12,2.6,0,110.0
+E0181,Workshop event 181, workshop ,Classroom,2025-11-20,17:00,No,7.5,39,14,4.3,0,20.0
+E0302,Social event 302,Social,Auditorium,2025-10-19,3:00 PM,No,12.3,376,20,3.0,0,260.0
+E0449,Cultural event 449,Cultural,Auditorium,2026-01-19,2:00 PM,Yes,0.0,387,8,4.7,0,296.0
+E0526,Career event 526,Career,Outdoor Field,2025-10-06,15:00,Yes,0.0,395,11,,0,335.0
+E0646,Career event 646,Career,Outdoor Field,2026-05-26,13:00,Yes,,465,12,3.1,0,319.0
+E0474,Sports event 474,Sports,Classroom,2026-05-13,13:00,No,12.7,60,12,3.0,0,34.0
+E0631,Social event 631,Social,Main Hall,2026-01-29,20:00,Yes,0.0,221,2,,0,193.0
+E0451,Workshop event 451,Workshop,Library Hall,2025-09-23,16:00,Y,,109,15,3.6,0,60.0
+E0006,Workshop event 6,Workshop,Main Hall,2025-10-12,11:00,Yes,,159,7,3.9,0,57.0
+E0357,Academic event 357,Academic,Main Hall,2025-12-03,6:00 PM,Yes,0.0,182,19,4.5,0,140.0
+E0046,Workshop event 46,WORKSHOP,Library Hall,2025-09-10,1:00 PM,Yes,,83,15,3.7,0,50.0
+E0458,Cultural event 458,Cultural,Outdoor Field,2026-02-05,7:00 PM,Yes,,681,10,,1,363.0
+E0540,Academic event 540,Academic,classroom,2025-10-27,19:00,Yes,,52,18,,0,40.0
+E0172,Academic event 172,Academic,Library Hall,,12:00,Yes,,95,2,4.0,1,23.0
+E0017,Cultural event 17,Cultural,Main Hall,2026-02-19,20:00,Yes,0.0,269,17,4.0,0,228.0
+E0049,Social event 49,SOCIAL,Library Hall,2026-03-19,7:00 PM,Y,0.0,148,10,2.8,0,99.0
+E0691,Workshop event 691,Workshop,Library Hall,2026-04-28,20:00,Yes,0.0,108,12,2.7,0,56.0
+E0655,Cultural event 655,Cultural,Library Hall,2026-03-12,20:00,Yes,,97,9,4.0,1,46.0
+E0004,Sports event 4,Sports,Classroom,2025-11-27,09:00,Y,,54,13,4.1,0,43.0
+E0553,Social event 553,Social,classroom,2025-09-20,20:00,No,12.6,62,14,3.9,0,50.0
+E0496,Sports event 496,Sports,Auditorium,2026-04-18,10:00,Yes,0.0,621,2,2.5,0,439.0
+E0317,Social event 317,SOCIAL,Library Hall,2026-02-22,16:00,Yes,,102,10,3.6,0,102.0
+E0659,Academic event 659,Academic,Classroom,2025-12-16,12:00,Yes,,66,6,3.6,1,26.0
+E0284,Sports event 284, sports ,Auditorium,2026-04-03,13:00,Y,0.0,-1,15,3.1,0,322.0
+E0097,Career event 97,Career,Outdoor Field,2026-01-27,11:00 AM,N,2.9,260,12,4.7,0,176.0
+E0286,Workshop event 286,Workshop,Auditorium,2026-01-19,19:00,Y,,707,12,4.8,0,368.0
+E0435,Sports event 435, sports ,Auditorium,2025-12-20,18:00,Yes,0.0,424,7,3.7,0,342.0
+E0226,Career event 226,Career,Outdoor Field,2026-05-27,18:00,No,14.8,626,1,,0,183.0
+E0027,Sports event 27,Sports,Auditorium,2026-03-01,12:00 PM,Yes,0.0,509,1,2.8,0,348.0
+E0652,Cultural event 652,Cultural,Library Hall,2025-11-21,9:00 AM,Yes,0.0,93,9,3.8,0,57.0
+E0264,Workshop event 264,Workshop,Library Hall,2026-01-28,09:00,Yes,,94,0,3.1,0,25.0
+E0051,Social event 51, social ,Outdoor Field,2025-11-19,12:00,No,10.5,943,7,4.7,0,443.0
+E0365,Academic event 365,Academic,Auditorium,2026-02-03,2:00 PM,Yes,,671,15,4.9,0,513.0
+E0230,Career event 230,Career,Main Hall,2025-10-05,09:00,Y,,218,7,4.4,1,117.0
+E0038,Social event 38,Social,Library Hall,2026-02-24,8:00 AM,Yes,,110,1,4.0,0,82.0
+E0158,Cultural event 158,Cultural,Classroom,2026-03-28,16:00,Y,,56,14,3.5,0,53.0
+E0238,Sports event 238,Sports,Classroom,2026-02-15,18:00,No,6.8,31,20,,0,21.0
+E0686,Social event 686,Social,library hall,2026-02-24,09:00,Yes,,149,18,4.5,0,139.0
+E0375,Workshop event 375,Workshop,Main Hall,2026-03-27,09:00,Yes,,294,12,5.0,0,167.0
+E0371,Sports event 371,Sports,Auditorium,2025-12-01,19:00,Yes,,672,4,3.4,0,479.0
+E0176,Sports event 176,Sports,Main Hall,2025-11-25,13:00,Yes,,291,6,4.7,0,236.0
+E0607,Career event 607,Career,Library Hall,2025-12-27,17:00,Yes,,129,0,4.3,0,88.0
+E0675,Cultural event 675,Cultural,Outdoor Field,2026-03-08,15:00,Y,0.0,650,6,,0,577.0
+E0528,Academic event 528,Academic,Outdoor Field,2025-10-04,08:00,No,6.5,906,1,4.2,0,286.0
+E0195,Workshop event 195,Workshop,Auditorium,2026-03-09,17:00,No,5.9,501,6,4.4,0,190.0
+E0609,Workshop event 609,Workshop,Main Hall,2026-04-01,17:00,Yes,,193,3,4.8,0,113.0
+E0617,Career event 617,Career,Auditorium,2025-12-21,13:00,Yes,0.0,519,0,4.0,0,385.0
+E0447,Career event 447,Career,Main Hall,2025-12-18,18:00,Y,0.0,166,0,3.0,0,100.0
+E0468,Cultural event 468,Cultural,Library Hall,2026-03-25,16:00,Yes,,96,12,2.9,0,75.0
+E0471,Social event 471, social ,Auditorium,2025-09-12,18:00,Yes,,364,12,4.9,0,364.0
+E0690,Social event 690,Social,Outdoor Field,2025-09-06,18:00,Yes,0.0,861,2,3.7,0,719.0
+E0596,Social event 596,SOCIAL,Main Hall,2025-09-01,12:00 PM,No,4.2,208,16,3.3,0,142.0
+E0290,Sports event 290, sports ,Auditorium,2025-09-26,19:00,Y,0.0,441,10,4.2,0,346.0
+E0068,Sports event 68,Sports,Main Hall,2025-12-13,18:00,Yes,0.0,273,3,3.7,0,209.0
+E0518,Academic event 518,Academic,Auditorium,2026-01-11,08:00,N,13.2,407,11,,0,103.0
+E0169,Sports event 169,Sports,Main Hall,2026-05-04,09:00,Yes,,220,11,3.4,0,176.0
+E0470,Workshop event 470,Workshop,Outdoor Field,2026-03-28,8:00 PM,No,14.9,988,4,2.9,0,75.0
+E0163,Sports event 163, sports ,Classroom,2025-11-07,08:00,No,8.0,39,5,4.7,0,18.0
+E0310,Academic event 310,Academic,Main Hall,2025-10-28,08:00,Yes,0.0,227,15,4.5,0,156.0
+E0194,Sports event 194,Sports,Outdoor Field,2025-09-06,17:00,Yes,,979,7,3.9,0,829.0
+E0597,Cultural event 597,Cultural,Library Hall,2026-01-28,09:00,Yes,,123,5,4.0,0,79.0
+E0366,Cultural event 366,Cultural,Library Hall,2026-05-11,10:00,Yes,0.0,86,0,3.3,0,60.0
+E0384,Career event 384,Career,Main Hall,2026-05-16,12:00,Y,0.0,273,18,3.7,0,193.0
+E0645,Social event 645,SOCIAL,Classroom,2025-11-14,10:00 AM,No,6.7,70,17,3.7,0,42.0
+E0517,Workshop event 517,WORKSHOP,Main Hall,2025-11-16,20:00,No,4.6,276,19,3.1,0,87.0
+E0153,Workshop event 153,Workshop,Outdoor Field,2026-01-22,11:00,Yes,,295,21,3.3,0,185.0
+E0550,Social event 550,Social,Outdoor Field,2025-11-26,12:00,No,13.0,895,3,4.3,1,289.0
+E0486,Career event 486,Career,Library Hall,2025-10-19,15:00,Yes,0.0,133,21,2.7,0,87.0
+E0227,Social event 227,Social,Main Hall,2026-02-04,12:00,Yes,,172,0,4.9,0,141.0
+E0480,Academic event 480,Academic,Classroom,2025-09-28,15:00,Yes,0.0,61,5,4.1,0,35.0
+E0572,Sports event 572,Sports,classroom,2026-05-07,19:00,No,7.8,45,12,,0,31.0
+E0104,Academic event 104,Academic,Outdoor Field,2025-11-27,12:00,Yes,,545,20,3.1,0,367.0
+E0422,Social event 422,Social,Classroom,2026-03-26,08:00,Yes,0.0,44,6,,0,32.0
+E0420,Cultural event 420, cultural ,Main Hall,2025-11-19,20:00,Yes,,262,14,3.6,0,206.0
+E0559,Social event 559,Social,Main Hall,2026-02-26,4:00 PM,No,3.4,265,9,3.5,1,305.0
+E0542,Academic event 542,Academic,Auditorium,2025-11-08,14:00,Yes,0.0,308,18,4.4,0,180.0
+E0075,Social event 75,Social,Outdoor Field,2026-05-22,11:00,Yes,,595,3,3.3,0,485.0
+E0116,Cultural event 116,Cultural,Outdoor Field,2026-05-10,13:00,Yes,0.0,545,1,4.2,0,437.0
+E0408,Academic event 408,Academic,Outdoor Field,2026-01-09,16:00,Yes,0.0,796,7,,0,563.0
+E0689,Sports event 689,Sports,Outdoor Field,2025-11-22,8:00 AM,No,14.2,416,8,,0,216.0
+E0120,Academic event 120,Academic,Outdoor Field,,10:00,Y,,566,2,4.9,0,194.0
+E0054,Sports event 54,Sports,Outdoor Field,2025-11-06,15:00,No,12.4,572,19,,0,275.0
+E0152,Career event 152,Career,Outdoor Field,2026-04-19,15:00,Y,,373,17,3.0,1,251.0
+E0404,Workshop event 404,Workshop,Classroom,2025-11-10,09:00,No,12.8,59,2,3.8,0,7.0
+E0674,Academic event 674,Academic,Main Hall,2025-12-02,17:00,N,2.6,276,14,3.2,0,133.0
+E0208,Workshop event 208,Workshop,Classroom,2026-02-08,09:00,Y,0.0,79,10,4.2,0,34.0
+E0481,Career event 481,Career,Auditorium,2025-12-13,12:00,Yes,0.0,748,19,2.7,0,587.0
+E0513,Workshop event 513,Workshop,Main Hall,2025-09-01,10:00 AM,No,8.4,219,9,4.8,0,121.0
+E0491,Workshop event 491,Workshop,Main Hall,2025-10-21,08:00,Yes,0.0,181,18,4.9,0,129.0
+E0552,Sports event 552,Sports,main hall,2026-02-12,19:00,Yes,0.0,286,11,4.2,0,243.0
+E0009,Career event 9,Career,Main Hall,2025-09-01,11:00 AM,No,6.4,241,8,4.2,0,137.0
+E0579,Workshop event 579, workshop ,Classroom,2025-09-16,3:00 PM,No,11.7,69,13,2.9,0,23.0
+E0037,Workshop event 37,Workshop,Auditorium,2025-12-25,15:00,Yes,0.0,427,11,3.1,0,251.0
+E0453,Sports event 453,Sports,Main Hall,2026-01-01,10:00,Yes,,208,13,,0,206.0
+E0140,Sports event 140,Sports,Outdoor Field,,19:00,Yes,0.0,228,7,3.8,0,188.0
+E0254,Career event 254,Career,Main Hall,2026-02-08,2:00 PM,Yes,0.0,252,10,4.4,0,217.0
+E0304,Workshop event 304,Workshop,Outdoor Field,2025-10-24,15:00,Yes,0.0,821,7,,0,491.0
+E0538,Academic event 538,Academic,Classroom,,17:00,Yes,0.0,66,1,4.6,1,18.0
+E0582,Workshop event 582, workshop ,auditorium,2026-02-16,09:00,Yes,0.0,737,5,,0,446.0
+E0369,Academic event 369,Academic,Library Hall,2025-09-19,08:00,Yes,0.0,93,9,4.1,0,47.0
+E0060,Social event 60,Social,auditorium,2026-01-18,12:00,Yes,0.0,668,11,3.8,0,628.0
+E0112,Social event 112,Social,Outdoor Field,2025-11-01,18:00,Y,,951,9,3.3,0,788.0
+E0515,Workshop event 515, workshop ,Classroom,2025-11-28,09:00,Yes,,39,8,3.9,0,25.0
+E0523,Career event 523,Career,Outdoor Field,2026-04-11,09:00,Y,,841,21,,0,672.0
+E0637,Career event 637,Career,Auditorium,2026-02-05,15:00,N,4.4,705,10,3.8,1,315.0
+E0263,Career event 263,Career,Outdoor Field,2025-10-21,20:00,No,8.2,661,10,2.7,0,223.0
+E0602,Social event 602,Social,Main Hall,2025-09-17,18:00,Yes,0.0,292,15,4.1,0,254.0
+E0298,Sports event 298,Sports,Library Hall,2025-10-11,11:00,N,4.5,147,10,4.4,0,113.0
+E0478,Academic event 478, academic ,Classroom,2026-04-30,13:00,Yes,,39,9,2.8,0,19.0
+E0415,Academic event 415, academic ,Classroom,2026-04-27,09:00,No,5.0,56,20,3.5,0,29.0
+E0151,Workshop event 151,Workshop,outdoor field,2025-11-15,14:00,Yes,0.0,904,17,3.2,0,413.0
+E0434,Academic event 434,Academic,Auditorium,2025-09-20,10:00,Yes,0.0,774,15,2.6,0,411.0
+E0568,Career event 568,CAREER,Library Hall,2026-01-05,20:00,No,2.9,134,5,4.2,0,79.0
+E0441,Workshop event 441,Workshop,outdoor field,,11:00,Yes,,518,0,2.7,0,146.0
+E0680,Workshop event 680,Workshop,Main Hall,2025-10-04,08:00,Yes,0.0,206,10,4.7,0,108.0
+E0267,Sports event 267,Sports,Auditorium,2026-03-22,12:00,No,5.4,659,2,3.8,0,348.0
+E0623,Academic event 623, academic ,Main Hall,2026-02-25,09:00,Yes,,252,10,4.7,0,163.0
+E0360,Social event 360,Social,Library Hall,2026-02-04,08:00,No,8.9,141,4,2.7,0,61.0
+E0635,Career event 635,Career,Main Hall,2026-05-25,13:00,Y,,264,8,,0,162.0
+E0039,Career event 39,Career,Auditorium,2025-11-26,15:00,No,11.9,354,17,2.9,0,145.0
+E0128,Social event 128,Social,Outdoor Field,2025-10-08,20:00,Y,0.0,283,12,4.2,0,238.0
+E0424,Cultural event 424,Cultural,Library Hall,2026-04-25,13:00,Yes,0.0,142,7,4.8,0,104.0
+E0417,Workshop event 417,Workshop,Outdoor Field,2025-11-03,16:00,No,3.9,465,12,3.8,0,189.0
+E0489,Social event 489,Social,Main Hall,2025-09-17,20:00,No,7.9,208,5,5.0,0,121.0
+E0308,Cultural event 308,Cultural,main hall,2026-05-05,17:00,Y,0.0,287,21,4.1,0,209.0
+E0199,Sports event 199, sports ,Classroom,2026-04-17,10:00 AM,No,2.1,58,6,2.6,0,27.0
+E0352,Academic event 352,Academic,Library Hall,2026-04-28,19:00,Y,0.0,137,18,3.2,0,90.0
+E0148,Career event 148, career ,Classroom,2026-04-18,10:00,N,10.2,42,15,3.5,0,25.0
+E0147,Academic event 147, academic ,Classroom,2026-03-05,15:00,Y,0.0,51,6,3.4,0,32.0
+E0524,Social event 524,Social,Auditorium,2025-12-27,20:00,Yes,0.0,520,2,4.8,0,516.0
+E0663,Academic event 663,Academic,Library Hall,2025-10-11,12:00,Yes,,96,7,4.7,0,53.0
+E0537,Sports event 537,Sports,Classroom,2025-12-10,12:00,Yes,0.0,37,15,3.3,0,33.0
+E0349,Career event 349,Career,Auditorium,2026-04-06,18:00,Yes,,767,12,3.1,0,577.0
+E0464,Sports event 464,Sports,Main Hall,2025-12-10,13:00,Yes,0.0,159,19,3.2,1,105.0
+E0326,Career event 326,Career,Classroom,2026-03-31,15:00,Yes,,35,12,3.9,0,30.0
+E0187,Academic event 187,Academic,classroom,2026-04-11,19:00,Yes,0.0,62,17,3.4,0,30.0
+E0124,Sports event 124,Sports,Auditorium,,13:00,N,4.5,562,15,,1,400.0
+E0608,Cultural event 608,Cultural,Library Hall,2025-10-12,11:00,Yes,0.0,133,0,4.3,0,88.0
+E0144,Sports event 144, sports ,Classroom,2026-02-01,09:00,Yes,0.0,52,17,2.9,0,38.0
+E0681,Social event 681,Social,Outdoor Field,2026-04-12,12:00,Yes,0.0,212,6,4.3,0,189.0
+E0198,Academic event 198,Academic,Classroom,2026-03-15,14:00,Yes,,61,19,2.6,0,38.0
+E0280,Academic event 280,Academic,Main Hall,2026-01-17,16:00,Yes,,151,9,4.9,0,84.0
+E0294,Career event 294,Career,Main Hall,2025-12-16,10:00,No,2.1,198,16,2.9,1,85.0
+E0401,Workshop event 401,Workshop,main hall,2025-09-16,17:00,Yes,,242,19,2.9,0,148.0
+E0123,Cultural event 123,Cultural,Classroom,2025-10-22,8:00 AM,No,7.4,64,3,3.6,0,26.0
+E0184,Social event 184,Social,Classroom,2025-12-21,18:00,Yes,,79,12,3.7,0,72.0
+E0203,Sports event 203,Sports,Library Hall,2026-04-12,3:00 PM,N,8.1,110,11,3.9,1,68.0
+E0439,Academic event 439,Academic,Auditorium,2025-10-31,14:00,N,2.2,517,8,3.7,0,275.0
+E0247,Social event 247,Social,Outdoor Field,2025-12-02,12:00 PM,Yes,0.0,296,15,3.1,0,246.0
+E0416,Social event 416,Social,Main Hall,2025-09-30,6:00 PM,Yes,0.0,166,10,3.3,0,140.0
+E0634,Sports event 634,Sports,Outdoor Field,2026-03-03,10:00,Yes,,327,13,3.8,0,290.0
+E0130,Cultural event 130,Cultural,Classroom,2026-05-07,20:00,Y,0.0,50,3,3.0,0,29.0
+E0403,Career event 403,CAREER,Outdoor Field,2026-01-01,17:00,Y,,712,11,4.3,0,712.0
+E0588,Academic event 588,Academic,Library Hall,2025-10-28,15:00,No,10.7,147,8,4.0,0,61.0
+E0573,Career event 573,Career,outdoor field,2026-03-04,19:00,No,7.2,943,21,3.5,1,273.0
+E0220,Workshop event 220,Workshop,Auditorium,2026-05-26,18:00,Yes,,583,0,3.7,0,284.0
+E0650,Workshop event 650,WORKSHOP,Main Hall,2026-02-26,20:00,Yes,0.0,178,12,3.5,0,87.0
+E0544,Career event 544,Career,Main Hall,2025-09-09,14:00,Yes,,294,7,4.8,0,230.0
+E0653,Career event 653,Career,Main Hall,2025-12-07,15:00,Yes,0.0,191,17,,0,167.0
+E0551,Social event 551,Social,Library Hall,2026-05-06,19:00,No,14.9,80,7,4.9,0,48.0
+E0387,Academic event 387,Academic,Outdoor Field,2025-10-24,11:00,Yes,,931,4,5.0,0,510.0
+E0692,Social event 692,Social,Main Hall,2025-11-28,10:00,N,3.0,245,17,,0,185.0
+E0510,Career event 510,Career,Outdoor Field,2026-05-12,18:00,No,6.6,691,19,4.0,0,446.0
+E0268,Sports event 268,Sports,Library Hall,2026-03-02,10:00,Yes,,141,2,3.3,0,93.0
+E0442,Career event 442,CAREER,Library Hall,2025-09-27,20:00,Y,0.0,107,19,3.0,1,65.0
+E0497,Academic event 497,Academic,Auditorium,2026-02-03,2:00 PM,No,3.2,640,1,2.7,0,208.0
+E0113,Cultural event 113,Cultural,Auditorium,2026-03-20,15:00,Yes,,531,1,4.0,0,337.0
+E0233,Academic event 233,Academic,Library Hall,2025-09-25,11:00 AM,Yes,0.0,137,10,3.9,0,102.0
+E0622,Sports event 622,Sports,Library Hall,2026-02-26,16:00,Y,,101,9,4.5,0,78.0
+E0374,Sports event 374, sports ,Main Hall,2025-12-16,10:00,No,8.8,159,11,2.8,0,86.0
+E0234,Social event 234,Social,Auditorium,2026-04-26,18:00,No,3.8,422,4,3.9,0,314.0
+E0697,Social event 697,Social,Auditorium,2026-05-12,19:00,Y,0.0,373,7,2.8,0,303.0
+E0318,Social event 318,Social,Main Hall,2025-12-12,11:00,Yes,0.0,187,13,,0,142.0
+E0411,Career event 411,Career,Auditorium,2025-11-06,10:00,Yes,,498,6,3.8,0,353.0
+E0639,Social event 639,Social,Auditorium,2026-05-25,14:00,Yes,0.0,798,17,4.3,0,671.0
+E0359,Academic event 359, academic ,Main Hall,2026-02-02,14:00,No,5.6,241,12,4.3,1,80.0
+E0259,Career event 259,Career,Outdoor Field,2026-04-15,4:00 PM,Yes,0.0,473,20,9.0,1,273.0
+E0283,Social event 283,Social,Main Hall,2025-09-10,19:00,No,4.0,275,13,4.8,0,205.0
+E0377,Social event 377,Social,Auditorium,2025-11-29,14:00,N,3.9,765,17,2.5,0,600.0
+E0385,Academic event 385,Academic,Library Hall,2026-03-16,12:00,Y,,89,8,4.9,0,55.0
+E0225,Social event 225,Social,Library Hall,2026-01-28,17:00,Yes,0.0,116,6,4.5,0,88.0
+E0679,Cultural event 679,Cultural,Main Hall,2025-11-09,13:00,Yes,,155,13,4.1,0,145.0
+E0584,Academic event 584,Academic,Outdoor Field,2026-03-22,6:00 PM,Yes,0.0,932,4,3.3,0,463.0
+E0473,Sports event 473,Sports,Library Hall,2026-02-10,17:00,No,11.8,130,21,3.8,1,63.0
+E0348,Workshop event 348,WORKSHOP,auditorium,2025-12-11,4:00 PM,Yes,,765,17,4.3,0,550.0
+E0506,Sports event 506,Sports,Outdoor Field,2025-11-06,17:00,Yes,,718,11,3.0,0,522.0
+E0156,Cultural event 156,Cultural,Outdoor Field,,16:00,No,8.8,521,4,2.7,0,241.0
+E0661,Career event 661,CAREER,Classroom,2026-04-30,09:00,No,10.5,36,6,3.8,0,12.0
+E0644,Sports event 644,Sports,Main Hall,2026-03-22,20:00,No,11.9,199,9,3.5,0,125.0
+E0610,Workshop event 610,Workshop,Outdoor Field,2026-02-18,7:00 PM,No,10.4,712,21,3.8,0,361.0
+E0603,Social event 603,Social,Auditorium,2025-12-17,10:00,N,7.0,410,17,3.9,1,189.0
+E0557,Social event 557,Social,Library Hall,2026-01-21,08:00,Yes,,86,15,,0,74.0
+E0086,Social event 86,Social,Main Hall,2026-04-21,11:00,Y,0.0,215,12,4.5,0,176.0
+E0243,Academic event 243,Academic,outdoor field,2025-12-30,15:00,Yes,0.0,643,6,4.6,0,386.0
+E0160,Social event 160,Social,Outdoor Field,2026-04-19,20:00,No,7.6,200,10,2.6,0,134.0
+E0525,Career event 525,Career,Main Hall,2025-12-07,19:00,Yes,0.0,170,11,4.5,1,119.0
+E0036,Academic event 36,Academic,Auditorium,2025-09-28,4:00 PM,No,8.9,598,4,4.5,0,278.0
+E0541,Social event 541,Social,Main Hall,2025-10-15,11:00,Yes,0.0,197,6,,0,132.0
+E0171,Academic event 171,Academic,Main Hall,2025-09-22,12:00,Y,,199,0,3.4,0,91.0
+E0612,Sports event 612,Sports,Library Hall,2025-12-16,08:00,Yes,,127,17,4.6,0,90.0
+E0604,Academic event 604,Academic,Outdoor Field,2026-01-02,18:00,No,12.6,356,12,3.3,0,175.0
+E0673,Cultural event 673,Cultural,Main Hall,2025-12-18,10:00,Yes,,235,4,5.0,0,151.0
+E0096,Career event 96,CAREER,Library Hall,2025-12-26,18:00,Yes,0.0,84,2,,0,68.0
+E0564,Career event 564,Career,Outdoor Field,2026-04-09,14:00,Yes,0.0,291,12,4.0,0,229.0
+E0241,Academic event 241,Academic,Auditorium,2026-03-14,1:00 PM,N,4.2,689,20,3.0,1,162.0
+E0575,Academic event 575,Academic,auditorium,2026-01-29,20:00,Yes,0.0,532,9,2.6,1,217.0
+E0461,Social event 461,Social,Main Hall,2026-03-19,15:00,Yes,0.0,220,0,3.3,0,154.0
+E0554,Career event 554,Career,auditorium,,12:00,No,11.7,468,1,3.6,0,212.0
+E0627,Sports event 627,Sports,Auditorium,2026-02-13,09:00,No,12.2,597,8,,0,279.0
+E0207,Social event 207,Social,Main Hall,2025-10-10,12:00,No,8.8,214,20,3.3,0,138.0
+E0393,Sports event 393,Sports,Outdoor Field,2025-12-02,20:00,Yes,,859,18,3.8,0,653.0
+E0398,Career event 398,Career,Auditorium,2025-10-21,19:00,Y,0.0,789,17,9.0,0,515.0
+E0605,Social event 605,Social,Auditorium,2026-04-04,08:00,Yes,,327,14,4.8,0,327.0
+E0218,Academic event 218,Academic,Auditorium,2026-01-15,13:00,Yes,0.0,761,12,4.5,1,371.0
+E0005,Sports event 5,Sports,Classroom,2025-10-18,19:00,Yes,,60,6,4.3,0,45.0
+E0638,Career event 638,Career,Library Hall,2025-09-11,10:00 AM,Yes,,98,6,4.6,1,47.0
+E0547,Sports event 547,Sports,Outdoor Field,2025-10-13,3:00 PM,Yes,,631,2,3.1,0,411.0
+E0099,Cultural event 99,Cultural,Library Hall,2026-01-05,15:00,Yes,,130,12,4.9,0,100.0
+E0574,Academic event 574,Academic,Auditorium,2025-12-02,10:00,Yes,,402,7,2.9,0,216.0
+E0407,Sports event 407,Sports,Library Hall,2025-09-03,13:00,Yes,,99,0,4.5,0,73.0
+E0503,Workshop event 503,Workshop,outdoor field,2026-03-14,18:00,No,7.9,590,11,4.6,0,242.0
+E0048,Workshop event 48,Workshop,Library Hall,2026-05-18,20:00,Yes,,146,21,5.0,1,81.0
+E0033,Academic event 33,Academic,Outdoor Field,2025-10-17,14:00,Yes,0.0,617,5,3.7,0,372.0
+E0201,Sports event 201,Sports,Classroom,2025-11-21,11:00,No,14.3,36,2,4.7,0,17.0
+E0135,Social event 135,Social,Outdoor Field,2026-04-09,15:00,Yes,,721,13,4.0,0,663.0
+E0028,Social event 28,Social,Classroom,2026-05-02,16:00,Yes,,31,15,2.9,0,29.0
+E0629,Cultural event 629,Cultural,Auditorium,2026-01-20,15:00,Yes,,302,16,,0,267.0
+E0231,Sports event 231,Sports,Main Hall,2026-02-02,8:00 AM,Y,0.0,199,1,4.8,0,121.0
+E0490,Cultural event 490,Cultural,Classroom,2025-12-31,12:00,Y,0.0,67,16,5.0,0,60.0
+E0379,Sports event 379,Sports,Main Hall,2025-11-23,09:00,Yes,,180,19,,0,118.0
+E0289,Cultural event 289,CULTURAL,Library Hall,2026-05-12,20:00,Yes,0.0,126,5,,0,95.0
+E0419,Career event 419,Career,Auditorium,2025-10-07,09:00,Yes,,679,3,4.2,0,432.0
+E0392,Career event 392,CAREER,Main Hall,2026-04-26,11:00,Yes,0.0,220,14,4.2,0,166.0
+E0593,Career event 593,Career,Main Hall,2025-11-17,19:00,Yes,,189,0,4.6,0,122.0
+E0499,Workshop event 499,Workshop,Outdoor Field,2026-03-21,20:00,Y,,831,10,,0,499.0
+E0139,Sports event 139,Sports,Classroom,2026-03-10,14:00,No,6.8,41,1,4.5,0,26.0
+E0063,Sports event 63,Sports,Outdoor Field,2025-09-13,13:00,Yes,,888,16,4.8,0,790.0
+E0472,Social event 472, social ,Auditorium,2025-10-26,20:00,Y,0.0,653,15,2.9,0,653.0
+E0129,Cultural event 129,Cultural,Outdoor Field,2025-09-06,11:00,Yes,,531,14,4.1,0,453.0
+E0695,Academic event 695,Academic,Library Hall,2025-10-14,08:00,No,13.0,84,16,,0,21.0
+E0521,Sports event 521,Sports,Auditorium,2025-12-16,19:00,Yes,0.0,415,17,3.1,0,310.0
+E0065,Sports event 65,Sports,Library Hall,2026-04-19,20:00,No,13.4,118,17,4.9,0,88.0
+E0015,Social event 15,Social,Outdoor Field,2026-02-05,17:00,Yes,0.0,657,18,9.0,0,592.0
+E0157,Academic event 157,Academic,Library Hall,,6:00 PM,No,13.8,103,6,2.9,0,18.0
+E0041,Academic event 41,Academic,Outdoor Field,2026-03-30,17:00,Y,,802,6,4.7,0,506.0
+E0493,Social event 493,Social,Classroom,2026-04-26,14:00,Y,,38,18,2.7,0,37.0
+E0380,Career event 380,Career,Outdoor Field,2026-03-04,9:00 AM,Yes,,688,11,3.5,1,325.0
+E0188,Sports event 188,Sports,Classroom,,18:00,Yes,0.0,60,6,4.9,0,48.0
+E0217,Academic event 217,Academic,Main Hall,2026-04-03,09:00,Yes,0.0,211,6,4.3,0,135.0
+E0053,Sports event 53,Sports,classroom,2025-09-14,19:00,N,12.0,32,2,3.4,0,15.0
+E0338,Career event 338,Career,Classroom,2025-09-27,16:00,Yes,0.0,58,1,2.6,0,34.0
+E0296,Cultural event 296,Cultural,Auditorium,2026-03-04,16:00,Yes,0.0,699,10,4.1,0,580.0
+E0252,Sports event 252,Sports,Library Hall,2025-09-05,17:00,Y,0.0,121,18,3.8,0,115.0
+E0462,Academic event 462,Academic,main hall,2025-11-19,12:00,No,10.8,268,6,2.8,0,94.0
+E0456,Cultural event 456,Cultural,Main Hall,2026-04-19,09:00,No,11.0,278,20,4.0,0,144.0
+E0200,Workshop event 200,Workshop,Auditorium,2026-03-11,19:00,Yes,,510,10,3.6,0,321.0
+E0270,Cultural event 270,Cultural,Classroom,2026-03-15,10:00 AM,N,8.8,63,4,4.1,0,35.0
+E0202,Workshop event 202,Workshop,Classroom,2026-03-19,09:00,Yes,,49,21,3.1,0,21.0
+E0162,Cultural event 162,Cultural,Outdoor Field,2025-11-08,20:00,Y,,329,9,4.8,0,276.0
+E0556,Cultural event 556,Cultural,Classroom,2025-12-18,15:00,No,14.1,60,19,4.6,0,37.0
+E0402,Social event 402,SOCIAL,Main Hall,2026-01-05,09:00,Yes,,274,0,4.5,0,201.0
+E0477,Workshop event 477,Workshop,Library Hall,2025-11-02,11:00 AM,Yes,0.0,101,11,2.6,1,12.0
+E0106,Social event 106, social ,Auditorium,2025-11-05,18:00,Yes,0.0,707,20,,0,602.0
+E0566,Career event 566,Career,Classroom,2026-03-20,14:00,Yes,0.0,62,21,4.5,0,47.0
+E0390,Academic event 390,Academic,Classroom,2026-03-23,12:00 PM,Yes,,58,11,9.0,0,38.0
+E0002,Social event 2,Social,Auditorium,2025-11-05,16:00,Yes,0.0,799,0,3.9,0,584.0
+E0668,Workshop event 668,Workshop,main hall,2026-05-03,20:00,No,10.8,156,12,3.5,0,52.0
+E0562,Academic event 562,Academic,Outdoor Field,2026-05-25,18:00,Yes,,377,12,4.3,0,269.0
+E0081,Workshop event 81,Workshop,Outdoor Field,2025-10-11,17:00,Yes,0.0,352,6,4.4,1,118.0
+E0206,Career event 206,Career,Auditorium,2026-04-29,09:00,Yes,0.0,374,5,2.9,0,237.0
+E0035,Workshop event 35, workshop ,Library Hall,2025-11-26,1:00 PM,Yes,0.0,133,1,,1,20.0
+E0509,Career event 509,Career,Library Hall,2025-09-10,14:00,No,10.7,122,1,2.9,0,61.0
+E0428,Social event 428,Social,Auditorium,2026-05-24,20:00,Yes,0.0,649,13,4.6,0,623.0
+E0455,Cultural event 455,Cultural,Library Hall,2025-09-29,20:00,No,5.7,139,14,2.7,0,
+E0367,Sports event 367,Sports,Outdoor Field,2026-01-15,11:00,N,12.8,774,1,3.9,0,281.0
+E0092,Social event 92,Social,main hall,2026-01-11,13:00,No,9.3,238,8,,1,80.0
+E0340,Workshop event 340,Workshop,Outdoor Field,2025-10-26,08:00,No,11.8,346,6,3.2,0,41.0
+E0565,Workshop event 565,Workshop,Library Hall,2026-04-09,10:00,N,8.4,97,19,,0,28.0
+E0346,Career event 346,Career,Classroom,2026-05-23,19:00,Yes,0.0,36,15,,0,30.0
+E0242,Cultural event 242, cultural ,Main Hall,2025-09-14,13:00,Yes,0.0,299,21,3.0,0,239.0
+E0014,Social event 14,Social,Auditorium,2026-04-02,19:00,No,10.0,464,1,4.9,1,201.0
+E0316,Cultural event 316,Cultural,Outdoor Field,2026-04-26,14:00,No,3.4,209,0,,0,134.0
+E0601,Cultural event 601,Cultural,Auditorium,2026-04-26,19:00,No,11.0,769,0,3.2,0,
+E0388,Social event 388,Social,outdoor field,2025-09-27,08:00,N,12.4,639,2,4.6,0,403.0
+E0274,Workshop event 274,Workshop,Main Hall,,13:00,Yes,0.0,198,13,,1,88.0
+E0167,Career event 167,CAREER,Outdoor Field,2026-05-20,16:00,Yes,,447,8,3.0,0,335.0
+E0301,Sports event 301,Sports,outdoor field,2025-11-11,08:00,N,9.8,944,2,2.5,1,87.0
+E0647,Sports event 647,Sports,Outdoor Field,2026-01-01,10:00,Yes,,832,10,2.6,0,591.0
+E0485,Sports event 485,Sports,Main Hall,2026-02-14,12:00 PM,Yes,,250,5,3.4,0,197.0
+E0698,Cultural event 698,Cultural,Auditorium,2026-04-21,15:00,Yes,0.0,729,8,4.7,0,627.0
+E0505,Career event 505,CAREER,Auditorium,2025-11-29,17:00,Y,,712,9,3.8,0,562.0
+E0244,Cultural event 244,Cultural,Main Hall,2026-02-08,17:00,Yes,,151,13,3.8,0,129.0
+E0567,Career event 567,Career,Classroom,2025-12-10,11:00,No,13.6,45,9,3.2,0,23.0
+E0563,Sports event 563,Sports,Main Hall,2025-10-09,09:00,Y,0.0,183,3,,0,91.0
+E0190,Career event 190,Career,Library Hall,2025-09-09,13:00,Yes,0.0,149,2,3.5,0,96.0
+E0476,Social event 476,Social,Library Hall,2025-10-03,12:00,No,10.1,80,20,3.0,0,50.0
+E0511,Workshop event 511,Workshop,Auditorium,2025-09-21,20:00,Y,,732,17,3.2,0,318.0
+E0059,Social event 59,Social,Classroom,2025-11-11,18:00,No,7.4,56,0,4.1,0,33.0
+E0475,Cultural event 475,Cultural,Classroom,2025-12-20,18:00,No,9.1,75,20,2.7,0,
+E0561,Cultural event 561,Cultural,Library Hall,2026-04-15,13:00,Yes,,96,15,,0,82.0
+E0253,Career event 253,Career,Auditorium,2025-09-15,17:00,Y,,427,3,3.6,0,294.0
+E0022,Sports event 22, sports ,Outdoor Field,2026-05-27,20:00,Yes,0.0,235,21,4.7,1,153.0
+E0314,Career event 314,Career,Library Hall,2026-03-18,3:00 PM,No,9.0,90,1,2.7,0,39.0
+E0460,Academic event 460, academic ,Library Hall,2026-03-18,15:00,Yes,0.0,106,20,3.5,0,80.0
+E0161,Workshop event 161,Workshop,Outdoor Field,,8:00 AM,No,11.1,299,3,3.0,0,42.0
+E0277,Sports event 277,SPORTS,Classroom,2025-10-11,19:00,N,13.3,75,0,9.0,0,37.0
+E0192,Cultural event 192,Cultural,Auditorium,2025-12-03,12:00,Yes,,344,12,4.0,0,288.0
+E0386,Academic event 386,Academic,Outdoor Field,2025-11-05,12:00,No,7.0,447,3,2.6,0,76.0
+E0414,Academic event 414,Academic,Library Hall,2026-01-12,5:00 PM,Y,,121,12,3.5,0,94.0
+E0492,Workshop event 492,Workshop,Library Hall,2025-11-06,12:00,No,13.6,148,20,3.6,0,43.0
+E0344,Cultural event 344,Cultural,Library Hall,2025-09-07,10:00,No,9.0,125,9,,0,66.0
+E0309,Career event 309, career ,Auditorium,2025-11-05,14:00,N,6.3,697,1,4.8,0,465.0
+E0662,Social event 662,SOCIAL,Classroom,2026-01-30,13:00,Yes,,51,9,3.2,0,44.0
+E0131,Cultural event 131,Cultural,Library Hall,2025-09-25,16:00,Yes,,138,18,2.8,1,81.0
+E0664,Career event 664,Career,library hall,2026-03-14,8:00 AM,Yes,,143,15,3.5,0,114.0
+E0100,Academic event 100,Academic,Main Hall,2026-04-16,10:00,No,10.6,206,20,3.6,0,74.0
+E0373,Sports event 373,Sports,Auditorium,2025-12-07,13:00,Yes,,548,7,2.8,0,490.0
+E0088,Career event 88,Career,Auditorium,2025-09-01,11:00,Y,0.0,422,15,3.7,0,384.0
+E0459,Workshop event 459,WORKSHOP,Library Hall,2026-01-20,08:00,Yes,,124,6,2.8,0,54.0
+E0331,Cultural event 331,Cultural,Main Hall,2026-03-30,09:00,No,12.8,289,10,3.7,0,117.0
+E0215,Social event 215,Social,Main Hall,2025-09-17,10:00,N,6.6,238,17,4.6,0,183.0
+E0467,Academic event 467,Academic,Classroom,2025-09-30,18:00,No,2.5,49,14,3.7,0,30.0
+E0122,Social event 122,Social,Auditorium,2026-03-12,10:00,Yes,,507,7,3.2,0,383.0
+E0615,Social event 615,Social,Outdoor Field,2026-02-22,14:00,Yes,,768,4,4.4,0,733.0
+E0021,Cultural event 21, cultural ,Classroom,2026-05-15,17:00,No,5.6,31,17,3.8,0,21.0
+E0159,Cultural event 159,Cultural,Auditorium,2026-05-27,8:00 AM,Yes,0.0,568,7,4.7,0,362.0
+E0072,Career event 72,Career,outdoor field,2026-03-08,17:00,Y,0.0,714,1,2.9,0,557.0
+E0107,Social event 107,SOCIAL,Main Hall,2026-05-05,09:00,No,11.3,211,16,2.9,0,138.0
+E0271,Career event 271,Career,Library Hall,2026-03-26,08:00,Yes,,135,18,4.8,0,107.0
+E0436,Academic event 436,Academic,Classroom,2025-10-08,20:00,Yes,,34,14,3.2,1,13.0
+E0103,Social event 103,Social,Main Hall,2025-11-01,08:00,Yes,0.0,191,6,3.8,0,155.0

@@ -1,0 +1,11 @@
+event_id,event_name,category,venue,event_date,start_time,is_free,ticket_price,capacity,promo_days,speaker_rating,exam_week,attendance
+E0121,Sports event 121,Sports,Classroom,2026-04-22,20:00,Yes,,78,13,4.1,0,65.0
+E0571,Workshop event 571,Workshop,Library Hall,2026-04-12,18:00,Y,,117,3,3.5,0,52.0
+E0040,Cultural event 40,Cultural,outdoor field,2026-05-16,1:00 PM,N,13.0,938,13,,0,492.0
+E0295,Cultural event 295,Cultural,Main Hall,2025-10-14,14:00,No,9.7,230,21,3.9,0,270.0
+E0667,Cultural event 667,CULTURAL,Library Hall,2026-03-15,12:00,Yes,,128,19,2.5,0,101.0
+E0438,Workshop event 438,Workshop,Library Hall,2025-11-22,14:00,Yes,,102,2,4.1,0,52.0
+E0066,Career event 66,Career,Auditorium,2025-10-01,20:00,No,5.5,531,10,4.5,0,345.0
+E0500,Sports event 500,Sports,Auditorium,2025-12-01,13:00,Y,,424,14,3.0,0,293.0
+E0079,Cultural event 79,CULTURAL,Library Hall,2025-11-02,16:00,Yes,,122,12,4.4,0,110.0
+E0654,Social event 654,SOCIAL,Outdoor Field,2026-05-14,16:00,No,3.1,633,18,3.7,0,441.0
